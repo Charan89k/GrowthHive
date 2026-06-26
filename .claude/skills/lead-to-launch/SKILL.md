@@ -1,5 +1,5 @@
 ---
-name: lead-to-launch
+name: GrowthHive
 description: End-to-end local-business website freelance pipeline. Scrape Google Maps leads → audit websites (PageSpeed + gaps) → rank by conversion potential → generate a website-builder prompt for a chosen lead → draft Hinglish/English outreach with day-3 follow-up. Use when the user says "find clients", "lead to launch", "scrape dentists in [city]", "build a site for a local business", or wants to run the freelance-website pipeline. Works in Claude Code, claude.ai chat, or the GrowtHive dashboard.
 ---
 
