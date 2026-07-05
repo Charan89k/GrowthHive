@@ -7,7 +7,7 @@ cd "$(dirname "$0")/app"
 
 echo ""
 echo "════════════════════════════════════════"
-echo "  GrowtHive — starting dashboard"
+echo "  Aureon — starting dashboard"
 echo "════════════════════════════════════════"
 echo ""
 

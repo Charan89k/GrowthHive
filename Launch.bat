@@ -6,7 +6,7 @@ cd /d "%~dp0app"
 
 echo.
 echo ========================================
-echo   GrowtHive : starting dashboard
+echo   Aureon : starting dashboard
 echo ========================================
 echo.
 

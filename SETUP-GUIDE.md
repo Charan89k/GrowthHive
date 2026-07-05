@@ -1,4 +1,4 @@
-# GrowtHive — Setup Guide
+# Aureon — Setup Guide
 
 Find local-business clients, audit their websites, rank them, generate a site-builder prompt, and draft outreach — in one dashboard.
 

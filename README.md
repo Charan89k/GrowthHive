@@ -1,6 +1,6 @@
-# GrowtHive 🚀
+# Aureon 🚀
 
-GrowtHive is an AI-powered lead generation and website opportunity platform built for freelancers, agencies, and developers looking to find high-quality local business clients.
+Aureon is an AI-powered lead generation and website opportunity platform built for freelancers, agencies, and developers looking to find high-quality local business clients.
 
 The platform streamlines the complete workflow—from discovering businesses to generating website proposals and personalized outreach—through one modern interface.
 
